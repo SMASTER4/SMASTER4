@@ -6,5 +6,6 @@ So here is actully nothing special.
 I can:
 - **Python**
 - **Java**
+- **HTML/CSS/JavaScript**
 - The really basics of **C/C++**
 - **Scratch**
