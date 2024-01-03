@@ -1,5 +1,10 @@
 Hello, I am **S MASTER**
 -
 This acount is for the first time only for **private** use intended.
+So here is actully nothing special.
 #
-I can a bit
+I can:
+- **Python**
+- **Java**
+- The really basics of **C/C++**
+- **Scratch**
