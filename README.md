@@ -9,4 +9,4 @@ I can:
 - **HTML/CSS/JavaScript**
 - The really basics of **C/C++**
 #
-I manely create **games**(espacialy one) and some other simple **apps** as a **hobby**.
+I create **games**(espacialy one) and some other simple **apps** as a **hobby**.
