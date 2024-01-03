@@ -8,4 +8,3 @@ I can:
 - **Java**
 - **HTML/CSS/JavaScript**
 - The really basics of **C/C++**
-- **Scratch**
