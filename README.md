@@ -1,12 +1,9 @@
-Hello, I am **S MASTER**
--
-This acount is for the first time only for **private** use intended.
-So here is actully nothing special.
-#
-I can:
-- **Python**
-- **Java**
-- **HTML/CSS/JavaScript**
-- The really basics of **C/C++**
-#
-I create **games**(espacialy one) and some other simple **apps** as a **hobby**.
+# About me
+Hello, I am S-Master4. I am a young **hobby** programmer. I like Linux and open source in general, because it gives me the freedom and power to deside about my PC. I also obviously like programming, because it gives me the tools to do almost anything. I am a bit into game dev from scratch(without a game engine), but I am generally intrested in many things around computers.
+
+I have used:
++ Python (I had bad experiences)
++ **Java**
++ HTML/CSS/JavaScript (You just need to today)
++ **C**
++ C++ (I found it a little bloaty)
