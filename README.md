@@ -4,6 +4,6 @@ Hello, I am S-Master4. I am a young **hobby** programmer. I like Linux and open 
 I have used:
 + Python (I had bad experiences)
 + **Java**
-+ HTML/CSS/JavaScript (You just need to today)
++ HTML/CSS/JavaScript (You just need those to today)
 + **C**
 + C++ (I found it a little bloaty)
